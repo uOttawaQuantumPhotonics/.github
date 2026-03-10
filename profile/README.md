@@ -1,12 +1,3 @@
-## Hi there 👋
+We explore the fundamental principles of quantum physics and harness the unique properties of light to develop novel technologies. Our research spans quantum optics, photonic quantum information, and metamaterials, with applications in communication, sensing, imaging, and foundational tests of quantum mechanics.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The respositories in this organization host public code, data, and research tools developed within the Lundeen Lab. These resources are intended to support transparency, reuse, and collaboration; if you build on them in academic or technical work, please cite the relevant repository or publication and acknowledge the Lundeen Lab.
