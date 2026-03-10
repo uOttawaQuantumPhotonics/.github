@@ -1,3 +1,5 @@
+# **Welcome to the Lundeen Lab for Quantum Photonics**
+
 We explore the fundamental principles of quantum physics and harness the unique properties of light to develop novel technologies. Our research spans quantum optics, photonic quantum information, and metamaterials, with applications in communication, sensing, imaging, and foundational tests of quantum mechanics.
 
 The respositories in this organization host public code, data, and research tools developed within the Lundeen Lab. These resources are intended to support transparency, reuse, and collaboration; if you build on them in academic or technical work, please cite the relevant repository or publication and acknowledge the Lundeen Lab.
